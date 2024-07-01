@@ -3,7 +3,7 @@
 - 👀 Pupil @ Codeforces with a highest rating of 1235
 - 👀 2 star at Codchef with a highest rating of 1506
 - 🌱 Currently pursuing B.Tech in Computer Science and Technology from IIEST,Shibpur
-- 💞️ I’m looking to collaborate on Web Development Domain
+- 💞️ I’m looking to collaborate on Web Development & Machine Learning Domain
 - 📫 How to reach me :-
 - Linkedin Profile URL- www.linkedin.com/in/abhilash-kumar-21a172256
 - Codeforces Profile Link - https://codeforces.com/profile/AbhilashK26
