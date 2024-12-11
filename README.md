@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhilash
 - 👀 Full Stack Developer and Competitive programmer
-- 👀 Pupil @ Codeforces with a highest rating of 1235
+- 👀 Pupil @ Codeforces with a highest rating of 1262
 - 👀 3 star at Codchef with a highest rating of 1649
 - 🌱 Currently pursuing B.Tech in Computer Science and Technology from IIEST,Shibpur
 - 💞️ I’m looking to collaborate on Web Development & Machine Learning Domain
