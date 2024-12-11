@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on Web Development & Machine Learning Domain
 - 📫 How to reach me :-
 - Linkedin Profile URL- www.linkedin.com/in/abhilash-kumar-21a172256
-- Codeforces Profile Link - https://codeforces.com/profile/AbhilashK26
 
 <!---
 AbhilashK26/AbhilashK26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
